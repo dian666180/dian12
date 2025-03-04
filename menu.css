@@ -1,0 +1,25 @@
+#baru-menu{
+    width: 100%;
+    height: 60px;
+    background-color: black;
+}
+li{
+    color: pink;
+}
+#daftar-menu{
+    display: none
+}
+#menu-f:hover #menu-daftar{
+    display: block
+}
+#menu-f{
+    background-color: orange;
+    color: black;
+    width: 150px;
+    text-align: center;
+}
+#menu-daftar li{
+    color: black;
+    padding: 5px;
+    
+}
